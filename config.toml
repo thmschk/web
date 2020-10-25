@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://thmschk.netlify.app"
 title   = "a simple website"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Lorenz Thomschke"
 
 [blackfriday]
   hrefTargetBlank = true
