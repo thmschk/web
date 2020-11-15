@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Just a website</title>
-    <link>https://thmschk.netlify.app/series/</link>
+    <link>http://www.thomschke.info/series/</link>
     <description>Recent content in Series on Just a website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://thmschk.netlify.app/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://www.thomschke.info/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo 101</title>
-      <link>https://thmschk.netlify.app/series/hugo-101/</link>
+      <link>http://www.thomschke.info/series/hugo-101/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://thmschk.netlify.app/series/hugo-101/</guid>
+      <guid>http://www.thomschke.info/series/hugo-101/</guid>
       <description></description>
     </item>
     
