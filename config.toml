@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://thmschk.netlify.app"
 title = " "
 paginate = 1
 languageCode = "en"
@@ -8,7 +8,7 @@ footnoteReturnLinkContents = "^"
 
 [author]
   name = ""
-  abstract = "I'm a software engineer and a coffee enthusiast in Japan. My primary interest lies in the area of natural language processing."
+  abstract = "tba"
 
 [taxonomies]
   category = "categories"
@@ -25,6 +25,4 @@ footnoteReturnLinkContents = "^"
 [Params]
   darkmode = false
 
-[params.social]
-    name = "github"
-    url  = "https://github.com/thmschk"
+
